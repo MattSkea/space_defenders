@@ -1,0 +1,9 @@
+body{
+    background: #333333;
+}
+#easel{
+    display: block;
+    background: #cccccc;
+    margin: 0 auto;
+    /*background-image: urL('../img/background_1_1.png');*/
+}

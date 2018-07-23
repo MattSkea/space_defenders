@@ -1,0 +1,17 @@
+{
+    "framerate": 8,
+    "images": ["img/sprites/sprites.png"],
+    "frames": {
+        "width": 123,
+        "height": 103,
+        "regX": 0,
+        "regY": 0
+    },
+    "animations": {
+        "left": [1, 3],
+        "right": [5, 7],
+        "explode": [8,11],
+        "heal": [12, 15],
+        "notMoving": [0]
+    }
+}

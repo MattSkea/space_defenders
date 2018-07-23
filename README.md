@@ -1,2 +1,5 @@
 # space_defenders
-CreateJS project
+## CreateJS project
+
+This project needs a PHP server to deploy.
+
